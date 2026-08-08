@@ -1,4 +1,7 @@
 ## Exp 01 Matrix Multiplication using MapReduce
+### Name : Namachivayam T 
+### Reg No : 212223060179 
+
 ### AIM:
 To implement Matrix Vector Multiplication using the MapReduce programming model.
 ### DESIGN STEPS:
