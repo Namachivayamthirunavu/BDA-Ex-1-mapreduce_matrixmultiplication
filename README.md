@@ -27,7 +27,7 @@ Compile and execute the program.
 Verify and display the resulting product matrix.
 
 ### PROGRAM:
-```
+``` python
 from functools import reduce
 # Matrix
 A = [[21,22,23],[24, 25, 26],[27, 28, 29]]
